@@ -1,6 +1,6 @@
 ### Hi there  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Chiara 
 
-I am a junior developer with a passion to create humane technology and contribute towards a better world - for both the planet and her inhabitants. 
+I am a junior developer with a passion for humane technology. I want to use technology in a way that creates towards a better world - for both the planet and her inhabitants. 
 🌏🌍🌎
 - 👩🏻‍💻 Student Developer @ [REA GROUP](https://www.rea-group.com//) 
 - 🐍 Currently learning Python 
