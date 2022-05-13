@@ -7,8 +7,6 @@ I am a junior developer with a passion to use technology to create a positive ch
 - 🌐 <a href="https://www.linkedin.com/in/chiara-caprasi/"> LinkedIn Profile 
 </a> 
 
-Thank you for stopping by! 
-
 #### Languages and Tools:
 
 <a href="https://github.com/chiaracaprasi/holbertonschool-low_level_programming">
@@ -23,9 +21,6 @@ Thank you for stopping by!
 </a>
 <a href="https://github.com/chiaracaprasi">
   <img align="left" alt="css" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-</a>
-<a href="https://github.com/chiaracaprasi">
-  <img align="left" alt="bootstrap" width="50px" height="50px" src="https://obscureproblemsandgotchas.com/wp-content/uploads/2018/06/bootstrap-stack-e1530246058846.png" />
 </a>
 <a href="https://github.com/chiaracaprasi">
   <img align="left" alt="JS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -56,5 +51,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<a href="https://github.com/chiaracaprasi">
+  <img align="left" alt="bootstrap" width="50px" height="50px" src="https://obscureproblemsandgotchas.com/wp-content/uploads/2018/06/bootstrap-stack-e1530246058846.png" />
+</a>
+
 -->
 
