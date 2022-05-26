@@ -1,6 +1,6 @@
 ### Hi there  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Chiara 
 
-I am a junior developer with a passion to use technology to create a positive change. 🌏🌍🌎
+I am a junior developer. I believe in making a meaningful and positive impact with technology - let's connect! 🌏🌍🌎
 - 👩🏻‍💻 Student Developer @ [REA GROUP](https://www.rea-group.com//) 
 - 🐍 Currently learning Python 
 -  ✍️ <a href="https://medium.com/@chiaracaprasi"> Medium Profile </a>
