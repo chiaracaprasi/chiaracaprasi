@@ -17,16 +17,22 @@ I am a junior developer. I believe in making a meaningful and positive impact wi
   <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 </a>
 <a href="https://github.com/chiaracaprasi">
+  <img align="left" alt="JS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+</a>
+<a href="https://github.com/chiaracaprasi">
+  <img align="left" alt="jquery" width="50px" src="https://generic-ui.com/assets/images/platform-logos/jquery.logo.jpg" />
+</a>
+<a href="https://github.com/chiaracaprasi/holberton-system_engineering-devops">
+  <img align="left" alt="react" width="50px" src="https://user-images.githubusercontent.com/91517809/188553162-0ba0654f-7a5c-4044-81d6-7ed336cdc5b9.png" />
+</a> 
+<a href="https://github.com/chiaracaprasi">
   <img align="left" alt="html" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 </a>
 <a href="https://github.com/chiaracaprasi">
   <img align="left" alt="css" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 </a>
 <a href="https://github.com/chiaracaprasi">
-  <img align="left" alt="JS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-</a>
-<a href="https://github.com/chiaracaprasi">
-  <img align="left" alt="jquery" width="50px" src="https://generic-ui.com/assets/images/platform-logos/jquery.logo.jpg" />
+  <img align="left" alt="bootstrap" width="50px" height="50px" src="https://obscureproblemsandgotchas.com/wp-content/uploads/2018/06/bootstrap-stack-e1530246058846.png" />
 </a>
 <a href="https://github.com/chiaracaprasi">
   <img align="left" alt="mysql" width="50px" height="50px" src="https://kinsta.com/fr/wp-content/uploads/sites/4/2019/04/logo-mysql-1.svg" />
@@ -37,6 +43,14 @@ I am a junior developer. I believe in making a meaningful and positive impact wi
 <a href="https://github.com/chiaracaprasi/holberton-system_engineering-devops">
   <img align="left" alt="linux" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 </a>
+
+<a href="https://github.com/chiaracaprasi/holberton-system_engineering-devops">
+  <img align="left" alt="nodejs" width="50px" src="https://user-images.githubusercontent.com/91517809/188554003-21e06c53-446e-4138-a891-c24598e149cb.png" />
+</a>
+
+
+
+
 
 <!--
 **chiaracaprasi/chiaracaprasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -52,9 +66,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<a href="https://github.com/chiaracaprasi">
-  <img align="left" alt="bootstrap" width="50px" height="50px" src="https://obscureproblemsandgotchas.com/wp-content/uploads/2018/06/bootstrap-stack-e1530246058846.png" />
-</a>
+
 
 -->
 
