@@ -26,13 +26,15 @@ I am a junior developer. I believe in making a meaningful and positive impact wi
   <img align="left" alt="react" width="50px" src="https://user-images.githubusercontent.com/91517809/188553162-0ba0654f-7a5c-4044-81d6-7ed336cdc5b9.png" />
 </a> 
 <a href="https://github.com/chiaracaprasi">
+  <a href="https://github.com/chiaracaprasi">
+  <img align="left" alt="react-bootstrap" width="50px" height="50px" src="https://user-images.githubusercontent.com/91517809/197426479-ab379c73-c6c7-46e7-b171-1c656e1b78bd.png" />
+</a>
+<a href="https://github.com/chiaracaprasi">
+  <img align="left" alt="bootstrap" width="50px" height="50px" src="https://obscureproblemsandgotchas.com/wp-content/uploads/2018/06/bootstrap-stack-e1530246058846.png" />
   <img align="left" alt="html" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 </a>
 <a href="https://github.com/chiaracaprasi">
   <img align="left" alt="css" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-</a>
-<a href="https://github.com/chiaracaprasi">
-  <img align="left" alt="bootstrap" width="50px" height="50px" src="https://obscureproblemsandgotchas.com/wp-content/uploads/2018/06/bootstrap-stack-e1530246058846.png" />
 </a>
 <a href="https://github.com/chiaracaprasi">
   <img align="left" alt="mysql" width="50px" height="50px" src="https://kinsta.com/fr/wp-content/uploads/sites/4/2019/04/logo-mysql-1.svg" />
