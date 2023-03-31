@@ -3,7 +3,7 @@
 I am a junior developer. I believe in making a meaningful and positive impact with technology - let's connect! 🌏🌍🌎
 - 👩🏻‍💻 Associate Developer @ [REA GROUP](https://www.rea-group.com//) 
 - 🐍 Currently improving my knoweledge of React and Typescript and learning Swift and SwiftUI.
-- 📚 Some of the books I'm reading are: Clean Code by Robert C. Martin, How to Bake Pi: An Edible Exploration of the Mathematics of Mathematics by Eugenia Cheng
+- 📚 Some of the books I'm reading are: Clean Code by Robert C. Martin, and How to Bake Pi: An Edible Exploration of the Mathematics of Mathematics by Eugenia Cheng
 -  ✍️ <a href="https://medium.com/@chiaracaprasi"> Medium Profile </a>
 - 🌐 <a href="https://www.linkedin.com/in/chiara-caprasi/"> LinkedIn Profile </a> 
 - 🙂 Pronouns: she/her
