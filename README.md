@@ -2,7 +2,9 @@
 
 I am a junior developer. I believe in making a meaningful and positive impact with technology - let's connect! 🌏🌍🌎
 - 👩🏻‍💻 Associate Developer @ [REA GROUP](https://www.rea-group.com//) 
-- 🐍 Currently improving my knoweledge of React and Typescript and learning Swift and SwiftUI.
+- 🐍 Currently improving my knoweledge of React and Typescript.
+- 📚 Books I'm reading are:  Code: The Hidden Language of Computer Hardware and Software and The Pragmatic Programmer. 
+
 
 
 -  ✍️ <a href="https://medium.com/@chiaracaprasi"> Medium Profile </a>
@@ -69,8 +71,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-- 📚 Some of the books I'm reading are: Clean Code by Robert C. Martin, and The Pragmatic Programmer by Andy Hunt and Dave Thomas
 
 
 
