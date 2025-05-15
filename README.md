@@ -2,7 +2,7 @@
 
 I am a junior developer. I believe in making a meaningful and positive impact with technology - let's connect! 🌏🌍🌎
 - 👩🏻‍💻 Associate Developer @ [REA GROUP](https://www.rea-group.com//) 
-- 🐍 Currently improving my knoweledge of React and Typescript.
+- 🐍 Currently improving my knoweledge of Functional Programming and Scala
 - 📚 Books I'm reading are:  Code: The Hidden Language of Computer Hardware and Software and The Pragmatic Programmer. 
 
 
