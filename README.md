@@ -23,9 +23,6 @@ I am a junior developer. I believe in making a meaningful and positive impact wi
 <a href="https://github.com/chiaracaprasi">
   <img align="left" alt="JS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 </a>
-<a href="https://github.com/chiaracaprasi">
-  <img align="left" alt="jquery" width="50px" src="https://generic-ui.com/assets/images/platform-logos/jquery.logo.jpg" />
-</a>
 <a href="https://github.com/chiaracaprasi/holberton-system_engineering-devops">
   <img align="left" alt="react" width="50px" src="https://user-images.githubusercontent.com/91517809/188553162-0ba0654f-7a5c-4044-81d6-7ed336cdc5b9.png" />
 </a> 
